@@ -7,5 +7,5 @@ app = Flask(__name__)   # Flask constructor
 def index(): 
     return 'Hello World!!checking the scalibiltyyyyy and automation......'
 init __name__=='__main__': 
-   app.run(host='0.0.0.0', port=80)
+   app.run(host='0.0.0.0', port=8080)
    
